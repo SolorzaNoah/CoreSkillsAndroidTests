@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "560752393387",
+    "firebase_url": "https://myfirstfirebase-2bf26.firebaseio.com",
+    "project_id": "myfirstfirebase-2bf26",
+    "storage_bucket": "myfirstfirebase-2bf26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560752393387:android:b3389a2928769a457e0bee",
+        "android_client_info": {
+          "package_name": "csci.cs.twu.edu.coreskills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560752393387-10ungrjf5uimjnffe44sbuppjf6d7lqh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "csci.cs.twu.edu.coreskills",
+            "certificate_hash": "e34bab50a7ad316685367dab3ac363c251baadbd"
+          }
+        },
+        {
+          "client_id": "560752393387-n8i26gal6r9acgt4nmt6empmvl55ti5i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzWJArURKA-TAsFrhFi5QaZosIb-Fxyq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560752393387-n8i26gal6r9acgt4nmt6empmvl55ti5i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "560752393387-6okeclcs1q2cn7up86k7r4di5emtoot0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.twu.gratch.fireexample.FireExample"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
